@@ -53,7 +53,7 @@ body {
 
 .header-img {
 
-    background-image: url(.images/coverimg.jpeg);
+    background-image: url(../images/coverimg.jpeg);
     height: 100vh;
     background-repeat: no-repeat;
     display: block;
